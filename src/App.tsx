@@ -12,7 +12,7 @@ function App() {
     <>
       <header className="bg-teal-400 py-5">
         <h1 className="text-center text-4xl font-black">
-          Calculadora de Propinas y Consumo
+          Calculadora de <br className="block md:hidden" /> Propinas y Consumo
         </h1>
       </header>
       <main className="max-w-7xl mx-auto py-20 grid md:grid-cols-2">
@@ -37,8 +37,8 @@ function App() {
         </div>
       </main>
       <footer className="bg-teal-400 py-5 ">
-        <div className="max-w-7xl mx-auto grid  sm:grid-cols-3 justify-evenly">
-          <div className="ml-5">
+        <div className="max-w-full mx-auto px-5 grid grid-cols-1 sm:grid-cols-3 gap-5">
+          <div>
             <h3 className="font-bold text-lg ">Contacto</h3>
             <ul>
               <li>
