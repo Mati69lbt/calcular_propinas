@@ -27,7 +27,7 @@ Este es mi primer proyecto pequeño con TypeScript. Al principio, me costó un p
 
 ## Despliegue
 
-El proyecto está desplegado en Netlify y se puede acceder a través del siguiente enlace: [Calculadora de Propinas y Consumo](https://cartaqr.netlify.app/)
+El proyecto está desplegado en Netlify y se puede acceder a través del siguiente enlace: <a href="https://cartaqr.netlify.app/" target="_blank">Calculadora de Propinas y Consumo</a>
 
 ## Scripts Disponibles
 
@@ -35,7 +35,6 @@ El proyecto está desplegado en Netlify y se puede acceder a través del siguien
 - **`npm run build`**: Construye la aplicación para producción.
 - **`npm run lint`**: Ejecuta ESLint para encontrar y arreglar problemas en el código.
 - **`npm run preview`**: Previsualiza la aplicación construida.
-
 
 ## Contacto
 
